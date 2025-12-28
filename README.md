@@ -31,7 +31,7 @@ Bu çalışmada, **Amazon Web Services (AWS)** üzerinde **Docker** konteyner te
 
 ## 📂 Proje Dosyaları
 * **[Rapor PDF](./bbNexCloudRapor.pdf):** Projenin tüm teknik detaylarını, mimari şemasını ve ekran görüntülerini içeren detaylı rapor.
-* **[docker-compose.yml](./docker-compose.yml):** Projeyi ayağa kaldırmak için kullanılan otomasyon kodu.
+* **[docker-compose.yml](./docker-compose-common.yml):** Projeyi ayağa kaldırmak için kullanılan otomasyon kodu.
 
 ## 🚀 Kurulum Komutları
 Proje aşağıdaki komutlarla AWS üzerinde ayağa kaldırılmıştır:
